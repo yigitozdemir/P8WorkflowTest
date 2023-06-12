@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/p8jars/pe.jar"/>
+	<classpathentry kind="lib" path="C:/p8jars/pe_t.jar"/>
+	<classpathentry kind="lib" path="C:/p8jars/pe3pt.jar"/>
+	<classpathentry kind="lib" path="C:/p8jars/pe3pt_t.jar"/>
+	<classpathentry kind="lib" path="C:/p8jars/peResources.jar"/>
+	<classpathentry kind="lib" path="C:/p8jars/peResources_t.jar"/>
+	<classpathentry kind="lib" path="C:/p8jars/p8cel10n.jar"/>
+	<classpathentry kind="lib" path="C:/p8jars/Jace_t.jar"/>
+	<classpathentry kind="lib" path="C:/p8jars/Jace.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
